@@ -13,7 +13,7 @@
         "files": ["civicrm-setup-autoload.php"]
     },
     "require": {
-        "psr/log": "~1.0",
+        "psr/log": "^1.0 || ^3.0",
         "symfony/event-dispatcher": "^2.6.13 || ~3.0"
     }
 }
